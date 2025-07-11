@@ -1,0 +1,5 @@
+streamlit 
+streamlit-extras 
+selenium 
+beautifulsoup4 
+pyautogui 
