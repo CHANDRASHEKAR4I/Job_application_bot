@@ -1,6 +1,5 @@
 import streamlit as st
 
-from streamlit_extras.colored_header import colored_header
 
 # ---------------- UI SETUP ----------------
 st.set_page_config(page_title="Job AutoBot",  layout="centered")
