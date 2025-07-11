@@ -3,3 +3,4 @@ streamlit-extras
 selenium 
 beautifulsoup4 
 pyautogui 
+python-dotenv 
